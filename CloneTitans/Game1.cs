@@ -413,7 +413,7 @@ namespace CloneTitans
                                 sb.DrawString(fontS, string.Format("Gives {0} damage\nGives {1} damage over time", FormatNumber(x.DAMAGE), FormatNumber(x.DAMAGE_OVER_TIME)), new Vector2(cursor.X + 12, cursor.Y - 8), Color.Black);
                         }
                     }
-                    break;
+                    break; 
             }
 
 
